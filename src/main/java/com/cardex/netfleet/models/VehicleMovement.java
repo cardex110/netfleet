@@ -53,4 +53,6 @@ public class VehicleMovement {
 	private Date date2;
 
 	private String remarks;
+	
+	
 }

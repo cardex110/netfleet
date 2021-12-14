@@ -11,5 +11,5 @@ public class ApplicationController {
 		return "index";
 	}
 	
-}
+}  
   

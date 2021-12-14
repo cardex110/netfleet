@@ -4,11 +4,11 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
-public class VehicleTypeController {
+public class StateController {
 
-	@GetMapping("/vehicletype")
-	public String getVehicleType() {
-		return "vehicletype";
+	@GetMapping("/state")
+	public String getClient() {
+		return "state";
 	}
 	
 }
